@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 👋 Hi, I’m Sai Amrit Patnaik
+- 👀 I’m interested in Machine Learning, Deep Learning  and Computer Vision
+- 🔭 I’m currently working on Self Supervised Learning and Representation learning
+- 🌱 I’m currently learning Optimization in DL
+- 💞️ I’m looking to collaborate on Vision Projects
+- 😄 Pronouns: Sai, Amrit, He/Him 
+- 📫 How to reach me: through [Twitter](https://twitter.com/SaiAmritPatnaik), [LinkedIn](https://www.linkedin.com/in/sai-amrit-patnaik/)
 
 <!--
 **saiamrit/saiamrit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
